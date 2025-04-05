@@ -1,0 +1,20 @@
+{
+  "name": "randstrgen",
+  "version": "1.0.0",
+  "description": "Random String Generator",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["random", "string", "generator", "cli"],
+  "author": "Cristian Acalo",
+  "license": "ISC",
+  "bin": {
+    "randstrgen": "bin/global.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CrisAcalo/randstrgen"
+  },
+  "preferGlobal": true
+}
